@@ -51,3 +51,4 @@ Port Android desarrollado por la comunidad independiente.
 Proyecto: Minecraft Wii U Edition Android
 Base: LCEReborn
 Plataforma: Android
+puede haber un error de conflicto de paquetes eliminan el juego o hagan una copia de seguridad y lo vuelven a instalar
